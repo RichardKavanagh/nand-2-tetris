@@ -3,7 +3,7 @@
 My solutions to the popular Nand 2 Tetris course (part I and II) on Coursera.
 
 <p align="center">
-	<img src="misc/nand-2-tetris.jpg"/>
+	<img src="misc/nand-to-tetris.jpg"/>
 </p>
 
 ## Coursera links
